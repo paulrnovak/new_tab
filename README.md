@@ -1,9 +1,10 @@
 # My Personal Little New Tab Page
 
+### General
 - [ ] Optimize for mobile / smaller screens
 - [x]  Move the whole thing over to GitHub pages for easier publishing
 
-Links
+### Links
 
 - [x]  Add https://putthison.com/ to Daily?
 - [ ]  Might as well slap Dribbble into design folder
