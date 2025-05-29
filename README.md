@@ -1,11 +1,12 @@
 # My Personal Little New Tab Page
 
-- [ ]  Move the whole thing over to GitHub pages for easier publishing
+- [ ] Optimize for mobile / smaller screens
+- [x]  Move the whole thing over to GitHub pages for easier publishing
 
-Link Management
+Links
 
-- [ ]  Add https://putthison.com/ to Daily?
+- [x]  Add https://putthison.com/ to Daily?
 - [ ]  Might as well slap Dribbble into design folder
-- [ ]  Remove flickr?
-- [ ]  Add GitHub
+- [x]  Remove flickr?
+- [x]  Add GitHub
 
