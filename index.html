@@ -16,10 +16,10 @@
                         const daysOfWeek = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
                         const date = new Date();
                         const dayName = daysOfWeek[date.getDay()];
-                        document.getElementById("current_date").innerHTML = `${dayName}, ${date.toLocaleDateString()}`;
+                        document.getElementById("current_date").innerHTML = `${dayName} ${date.toLocaleDateString()}`;
                     </script>
                 </div>
-                <p>• <span id="time"></span></p>
+                <p><span id="time"></span></p>
             </div>
 
             <div class="bookmarks">
