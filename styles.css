@@ -129,3 +129,13 @@ a:hover {
     opacity: 1;
   }
 }
+
+.input_box {
+  width: 100%;
+  border: none;
+  font-size: 14px;
+  padding: 12px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  font-family: "Google Sans Code", monospace;
+}
